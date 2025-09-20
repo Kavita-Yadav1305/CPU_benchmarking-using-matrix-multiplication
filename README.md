@@ -1,6 +1,10 @@
 # CPU_benchmarking-using-matrix-multiplication
 ###### Welcome!
-In this activity, we will explore the fascinating world of CPU benchmarking. Our goal is to measure and understand how the CPU execution time varies with the complexity of tasks. By the end of this activity, you will have a practical understanding of CPU benchmarking and its relevance to computer architecture.
+In this activity, we will explore the fascinating world of CPU benchmarking. Our goal is to measure and understand how the CPU execution time varies with the complexity of tasks. By the end of this activity, we will have a practical understanding of CPU benchmarking and its relevance to computer architecture.
+## Objective
+The objective of this activity is to measure and understand how CPU execution time varies with the complexity of operations. This activity will provide practical exposure to the concept of CPU benchmarking. 
+## Problem statement
+ We are required to write a Python program to perform the multiplication of two square matrices of varying sizes and measure the CPU time taken to perform these operations
 
 ##### -> Implemented a CPU benchmarking tool by measuring execution time of matrix multiplications for increasing matrix sizes.
 
