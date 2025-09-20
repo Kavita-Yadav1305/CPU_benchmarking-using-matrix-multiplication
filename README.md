@@ -1,5 +1,6 @@
 # CPU_benchmarking-using-matrix-multiplication
-
+###### Welcome!
+In this activity, we will explore the fascinating world of CPU benchmarking. Our goal is to measure and understand how the CPU execution time varies with the complexity of tasks. By the end of this activity, you will have a practical understanding of CPU benchmarking and its relevance to computer architecture.
 
 ##### -> Implemented a CPU benchmarking tool by measuring execution time of matrix multiplications for increasing matrix sizes.
 
