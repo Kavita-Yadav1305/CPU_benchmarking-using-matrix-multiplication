@@ -62,6 +62,9 @@ if __name__ == "__main__":
     for size in [50, 100, 150, 500, 1000]:
         benchmark_matrix_multiplication1(size)
 ```
+## results of this implementation
+<img width="935" height="154" alt="image" src="https://github.com/user-attachments/assets/f366a979-dbc1-455a-b3a4-774406a66b1d" />
+
 ## Now we have implemented the same using numpy library
 ```
 import time
@@ -93,4 +96,6 @@ if __name__ == "__main__":
     for size in [50, 100, 150, 500, 1000]:
         benchmark_matrix_multiplication(size)
 ```
+## results after using numpy
+<img width="828" height="192" alt="image" src="https://github.com/user-attachments/assets/11c0db0b-b029-45bf-808b-c705fb242ce6" />
 
